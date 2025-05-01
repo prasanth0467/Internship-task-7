@@ -11,7 +11,7 @@ Data analysis practice task where MySQL and Python is used to generate a basic s
 
 ## Files Included
 
-- `notebook task 7.ipynb`: Jupyter notebook with all the code and output
+- `notebook task 7-checkpoint.ipynb`: Jupyter notebook with all the code and output
 - `Sales_chart.png`: Bar chart showing revenue by market
 
 ## Tools Used
